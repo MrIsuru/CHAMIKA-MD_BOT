@@ -1,42 +1,42 @@
-<h1 align="center"> ✧ A17 ✧ </h1>
+<h1 align="center"> ✧ CHAMIKA-MD ✧ </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Capriola&size=40&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines=Welcome+to+A17+MD+!;Explore+the+world+of+features!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Capriola&size=40&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines=Welcome+to+CHAMIKA+MD+!;Explore+the+world+of+features!" />
 </p>
 
 <p align="center">
-   <a href="https://github.com/Kai0071">
+   <a href="https://github.com/MrIsuru">
     <img src="https://graph.org/file/14d7cc038fa3192a8fe43.jpg" width="249">
 </p>
 
-<h1 align="center"> A17 BoT (Beta)</h1>
+<h1 align="center"> CHAMIKA-MD BoT (Beta)</h1>
 
 <p align="center"> 
-  Hi there, I'm "A17," a versatile WhatsApp bot created and reprogrammed by Kai to perform a wide array of functions based on WhatsApp Multi-Device (MD) Support.
+  Hi there, CHAMIKA-MD Is simple Whatsapp user Bot by Mʀ Iꜱᴜʀᴜ X.
 
 <p align="center"> 
-  <a href="https://github.com/Kai0071/A17/stargazers">
-    <img src="https://img.shields.io/github/stars/Kai0071/A17?style=social">
+  <a href="https://github.com/MrIsuru/CHAMIKA-MD_BOT/stargazers">
+    <img src="https://img.shields.io/github/stars/MrIsuru/CHAMIKA-MD_BOT?style=social">
 </p>
   
 <p align="center">
-  <a href="https://github.com/Kai0071/A17/fork">
-    <img src="https://img.shields.io/github/forks/Kai0071/A17?label=Fork&style=social">
+  <a href="https://github.com/MrIsuru/CHAMIKA-MD_BOT/fork">
+    <img src="https://img.shields.io/github/forks/MrIsuru/CHAMIKA-MD_BOT?label=Fork&style=social">
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kai0071/A17">
+  <a href="https://github.com/MrIsuru/CHAMIKA-MD_BOT">
     <img src="https://api.visitorbadge.io/api/visitors?path=Kai0071%2FA17&label=Repo%20Visitors&labelColor=%23697689&countColor=%23ba68c8&style=plastic&labelStyle=upper">
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kai0071">
+  <a href="https://github.com/MrIsuru">
     <img title="Maintain" src="https://img.shields.io/badge/Maintain-Yes-cyan.svg?style=for-the-badge&logo=xcode" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kai0071">
+  <a href="https://github.com/MrIsuru">
     <img title="Next Update" src="https://img.shields.io/badge/Next%20Update-Undefined!-green.svg?style=for-the-badge&logo=xcode" />
   </a>
 </p>
@@ -52,8 +52,8 @@
 <h2 align="center"> 🔰 Tap Here To Fork 🔰 </h2>
 
 <h2 align="center">
-  <a href="https://github.com/Kai0071/A17/fork">
-    <img src="https://img.shields.io/badge/FORK A17 MD-h?color=white&style=for-the-badge&logo=stackshare" />
+  <a href="https://github.com/MrIsuru/CHAMIKA-MD_BOT/fork">
+    <img src="https://img.shields.io/badge/FORK CHAMIKA MD-h?color=white&style=for-the-badge&logo=stackshare" />
   </a>
 </h2>
 
@@ -63,7 +63,7 @@
 <h2 align="center"> 🍁  Run Repl for Multi Session QR  🍁 </h2>
 
 <h2 align="center">
-  <a href="https://replit.com/@Kai0071/A17-Multi-Session?v=1">
+  <a href="NOT YET !">
     <img src="https://repl.it/badge/github/quiec/whatsasena" />
   </a>
 </h2>
